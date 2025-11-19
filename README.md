@@ -9,7 +9,10 @@
 Spotting the **anomalies and outliers** that everyone else overlooks—those unexpected patterns that reveal the real story behind the data. I thrive on translating complex analyses into compelling narratives that turn "what happened?" into "here's what we should do."
 ### ✨ When I'm Not Analyzing Data  
 - On the way to becoming a **Tennis 3.0** player 🎾
-- Love group **HIIT** workouts and staying active 💪 
+- Love group **HIIT** workouts and staying active 💪
+### 🚀 Featured Data Analysis Project
+#### 📊 [Market Entry Strategy for Barefoot Hard Seltzer - E. & J. Gallo Winery](https://github.com/nzzzzzw/gallo-market-analysis-portfolio)
+
 ## 🛠 Tech Stack  
 ### Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
