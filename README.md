@@ -55,7 +55,5 @@ Spotting the **anomalies and outliers** that everyone else overlooks—those une
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-## 📊 Coding Stats:
-![](https://github-readme-stats.vercel.app/api?username=nzzzzzw&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nzzzzzw&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
