@@ -1,5 +1,5 @@
 ## Hi 👋, I’m Niko 
-📊 **Data/Business Analyst** | 🌐 Open to opportunities
+📊 Consulting | Data Analyst | Business Analyst | 🌐 Open to opportunities
 ### 👨‍🎓 Education & Background  
 * Former **Big Four** consultant, now combining consulting rigor with technical depth to help organizations make smarter, data-driven decisions
 * Graduated from **BCIT** in Computer Systems Technology
