@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- Former **Ernst & Young** consultant (People Advisory Services, Shanghai) — now building the products I used to advise on
+- Former **Ernst & Young** consultant
 - Graduated from **BCIT** in Computer Systems Technology
 - **MS in Management**, Wake Forest University · **BS in Mathematics**, NC State University
 - Bilingual in **English & Mandarin** 🌏
