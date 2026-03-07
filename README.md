@@ -13,12 +13,6 @@
 
 ---
 
-### 💡 What Drives Me
-
-I care about the **intersection of design and logic** — where a well-structured component meets a smooth interaction and everything just clicks. After two years advising Fortune 500 companies at EY, I realized the best technical decisions come from understanding the business problem first. I bring that thinking to every project I build.
-
----
-
 ### ✨ Life Outside the Terminal
 
 - On the way to becoming a **Tennis 3.0** player 🎾
