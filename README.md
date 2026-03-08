@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Niko
 
-🌐 Frontend Developer (React, Next.js) | Vancouver, BC 🇨🇦 | Former Big Four Consultant | Open to Opportunities | [Click to Check My Portfolio](https://www.nikow.work/)
+🌐 Software Developer (React, Next.js) | Vancouver, BC 🇨🇦 | Former Big Four Consultant | Open to Opportunities | [Click to Check My Portfolio](https://www.nikow.work/)
 
 ---
 
