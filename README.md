@@ -25,7 +25,7 @@
 
 #### ✅ [Niko Tick](https://github.com/NikoZW/niko-tick)
 
-A simple, focused todo app — sign in once and manage your tasks. Todos are stored in the cloud and stay in sync across devices.
+A simple, focused to-do app — sign in once and manage your tasks. Todos are stored in the cloud and stay in sync across devices.
 
 `React` `Vite` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Vercel`
 
@@ -33,7 +33,7 @@ A simple, focused todo app — sign in once and manage your tasks. Todos are sto
 
 #### 💸 [Niko Budget — AI Powered](https://github.com/NikoZW/niko-budget)
 
-A smarter way to manage money — track daily income and expenses with an AI assistant that understands natural language. Describe a transaction in plain English and it logs it automatically.
+A smarter way to manage money — track daily income and expenses with an AI assistant that understands natural language.
 
 `React Native` `Expo` `TypeScript` `Supabase` `Express` `DeepSeek AI` `Drizzle ORM` `Zustand`
 
@@ -41,7 +41,7 @@ A smarter way to manage money — track daily income and expenses with an AI ass
 
 #### 📰 [Daily Briefs by Niko](https://github.com/NikoZW/niko-brief)
 
-A smarter way to stay informed — get concise daily updates on startups, technology, and AI trends delivered straight to your inbox. Powered by scheduled RSS workflows.
+An efficient way to stay informed — get concise daily updates on startups, technology, and AI trends delivered straight to your inbox. Powered by scheduled RSS workflows.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Inngest` `Resend` `RSS` `Vercel`
 
@@ -49,7 +49,7 @@ A smarter way to stay informed — get concise daily updates on startups, techno
 
 #### 🌐 [Personal Portfolio](https://github.com/NikoZW/portfolio)
 
-My developer portfolio — built with Next.js 14, TypeScript, and Tailwind CSS. Features dark/light mode and smooth scroll animations.
+My developer portfolio — Built with Next.js, React, TypeScript, and Tailwind CSS. Features dark/light mode and smooth scroll animations.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
