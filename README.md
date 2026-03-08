@@ -25,7 +25,7 @@
 
 #### ✅ [Niko Tick](https://github.com/NikoZW/niko-tick)
 
-A simple, focused to-do app — sign in once and manage your tasks. Todos are stored in the cloud and stay in sync across devices.
+A simple, focused task management app — sign in once and manage your tasks. Todos are stored in the cloud and stay in sync across devices.
 
 `React` `Vite` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Vercel`
 
